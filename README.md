@@ -1,0 +1,2 @@
+# Bare-Chip-ESP32-Custom-Development-Board-with-8MB-Flash-and-PCB-Antenna
+Designed a custom ESP32 development board around the bare chip in EasyEDA: external QSPI flash, CP2102N USB-UART bridge, transistor auto reset, dual buck power (12V/USB-C to 5V to 3.3V) with ideal diode ORing, and an on PCB 2.4 GHz MIFA antenna. The board boots and runs reliably, detects Wi-Fi down to -96 dBm, and runs flash in DIO mode at 40 MHz.
